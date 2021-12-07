@@ -1,0 +1,40 @@
+h1
+{
+    color: rgb(187, 111, 11);
+    font-size: 50px ;
+}
+
+
+
+
+dt
+{
+    
+    font-size: 25px;
+}
+img
+{
+     max-width: 1500px;
+     max-height: 200px;
+     
+}
+p
+{
+    font-size: 25px;
+}
+div
+{
+    size-adjust: 150%;
+}
+.FriseChrono
+{
+    max-width:  3500px;
+    max-height: 200px;
+    transform: rotate(360deg);
+    position: absolute; right: 100px;
+}
+h2
+{
+    font-size: 25px;
+    color: rgb(50, 19, 51);
+}
